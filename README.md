@@ -5,3 +5,8 @@ This application was made from the inspiration of all of the spy gadgets when I 
 that allowed kids to play sleuth.
 
 Once installed, the application will walk through all of the gestures that can be used to use the application.
+
+
+## Please Note
+
+This is a semi-old project and does not work perfectly with new versions of Xcode and new devices.
