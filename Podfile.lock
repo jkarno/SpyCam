@@ -1,0 +1,13 @@
+PODS:
+  - ChameleonFramework (1.0.0)
+  - EAIntroView (2.6.3)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - EAIntroView
+
+SPEC CHECKSUMS:
+  ChameleonFramework: be2686bb276287dfbf86549f6161dfbf3d9c06d5
+  EAIntroView: 45924b81c153d1206ee24f4fa654e9d9dae79e93
+
+COCOAPODS: 0.33.1
